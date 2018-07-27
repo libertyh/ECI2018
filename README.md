@@ -12,7 +12,11 @@ ECI Website: http://www.dc.uba.ar/events/eci/2018/cursos
 
 ## Lab 1 ##
 
-To run Lab 1, navigate to Lab1/EncodingModels.ipynb and launch the notebook.
+To run Lab 1, navigate to Lab1/EncodingModels.ipynb and launch the notebook after clicking the binder link.
+
+## Lab 2 ##
+
+To run Lab 2, navigate to Lab2/UnsupervisedModels.ipynb and launch the notebook after clicking the binder link.
 
 ## Notes on running on binder ##
 For some computations, binder's available compute power is limited, so we have reduced the size of the dataset and models we fit.
