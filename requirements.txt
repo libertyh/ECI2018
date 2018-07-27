@@ -3,3 +3,4 @@ scipy>=0.18.1
 tables
 h5py
 matplotlib
+cvxopt
